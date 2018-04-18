@@ -51,6 +51,12 @@
             "request": "launch",
             "name": "hasUniqueChars",
             "program": "${workspaceFolder}/hasUniqueChars.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "mergeKSortedLinkList",
+            "program": "${workspaceFolder}/mergeKSortedLinkList.js"
         }
     ]
 }

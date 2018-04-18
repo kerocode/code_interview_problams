@@ -1,4 +1,5 @@
-function hasUniqueChar(str){
+function hasUniqueChar(s){
+let str = s.toLowerCase();    
 let checker = 0;
 let a = 'a'.charCodeAt(0);
 for(let char of str){
