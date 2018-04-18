@@ -45,6 +45,12 @@
             "request": "launch",
             "name": "addLinkList",
             "program": "${workspaceFolder}/addLinkList.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "hasUniqueChars",
+            "program": "${workspaceFolder}/hasUniqueChars.js"
         }
     ]
 }
