@@ -25,8 +25,8 @@ var addTwoNumbers = function(l1, l2) {
         carry = Math.floor(s / 10);
         result.next = cur;
         result = cur;
-        l1 = l1.next;
-        l2 = l2.next;
+        l1 = l1?l1.next:null;
+        l2 = l2?l2.next:null;
     }
     return sum.next ;
 };
