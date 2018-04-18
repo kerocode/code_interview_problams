@@ -33,6 +33,18 @@
             "request": "launch",
             "name": "findMinDiff",
             "program": "${workspaceFolder}/FindMinDiff.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "mergeSortedArrays",
+            "program": "${workspaceFolder}/mergeSortedArrays.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "addLinkList",
+            "program": "${workspaceFolder}/addLinkList.js"
         }
     ]
 }
