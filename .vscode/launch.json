@@ -63,6 +63,18 @@
             "request": "launch",
             "name": "trappingRainWater",
             "program": "${workspaceFolder}/trappingRainWater.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "quickSort",
+            "program": "${workspaceFolder}/quickSort.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "minheap",
+            "program": "${workspaceFolder}/minheap.js"
         }
     ]
 }
