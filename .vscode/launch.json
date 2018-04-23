@@ -67,8 +67,20 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "quickSort",
+            "program": "${workspaceFolder}/quickSort.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "mergeSort",
             "program": "${workspaceFolder}/mergeSort.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "minheap",
+            "program": "${workspaceFolder}/minheap.js"
         }
     ]
 }
