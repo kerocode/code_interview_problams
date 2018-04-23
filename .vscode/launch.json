@@ -63,6 +63,12 @@
             "request": "launch",
             "name": "trappingRainWater",
             "program": "${workspaceFolder}/trappingRainWater.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "mergeSort",
+            "program": "${workspaceFolder}/mergeSort.js"
         }
     ]
 }
