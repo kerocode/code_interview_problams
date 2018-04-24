@@ -81,6 +81,12 @@
             "request": "launch",
             "name": "minheap",
             "program": "${workspaceFolder}/minheap.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "shortestPalindrome",
+            "program": "${workspaceFolder}/shortestPalindrome.js"
         }
     ]
 }
