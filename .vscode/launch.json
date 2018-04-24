@@ -87,6 +87,12 @@
             "request": "launch",
             "name": "shortestPalindrome",
             "program": "${workspaceFolder}/shortestPalindrome.js"
+        },
+        {
+            "type":"node",
+            "request": "launch",
+            "name": "factorialZeros",
+            "program": "${workspaceFolder}/factorialZeros.js"
         }
     ]
 }
