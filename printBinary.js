@@ -8,9 +8,9 @@ function printBinary(n) {
         }
         binarynum += n % 2;
     }
-    printBinaryHelper(10);
+    printBinaryHelper(n);
     return binarynum;
 }
 
 
-console.log(printBinary(5));
+console.log(printBinary(10));
