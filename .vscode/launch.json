@@ -93,6 +93,12 @@
             "request": "launch",
             "name": "factorialZeros",
             "program": "${workspaceFolder}/factorialZeros.js"
+        },
+        {
+            "type":"node",
+            "request": "launch",
+            "name": "hasSubString",
+            "program": "${workspaceFolder}/hasSubString.js"
         }
     ]
 }
